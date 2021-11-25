@@ -3,7 +3,7 @@
 # dockerを使う場合
 
 ```sh
-npx degit sveltejs/template <project-name> && cd <project-name>
+npx degit sveltejs/template project-name && cd project-name
 ```
 
 # TypeScriptを使用する
