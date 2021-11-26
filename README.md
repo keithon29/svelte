@@ -70,4 +70,4 @@ ports:
   - "8080:5000"
 ```
 
-今回は8080で```http://localhost:8080/```にChromeとかでアクセスすれば```HELLO WORLD!```
+今回は```http://localhost:8080/```にChromeとかでアクセスすれば```HELLO WORLD!```
