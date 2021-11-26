@@ -1,6 +1,11 @@
-# svelte
+# svelteをdockerで動かす
 
-# dockerを使う場合
+ローカルで任意の名前のディレクトリを作っておく。
+```sh
+mkdir project-name
+```
+
+コンテナを立ち上げた後
 
 ```sh
 npx degit sveltejs/template project-name && cd project-name
