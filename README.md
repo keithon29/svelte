@@ -13,7 +13,7 @@ mkdir project-name
 .
 ├── Dockerfile
 ├── docker-compose.yml
-└── project
+└── project-name
 ```
 ### コンテナを立ち上げて入る
 docker-compose便利...
