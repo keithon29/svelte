@@ -69,5 +69,5 @@ npm run dev
 ports: 
   - "8080:5000"
 ```
-ローカル側:docker側 = 任意の値:5000ってなってると思うから、
-任意の値の方で```http://localhost:8080/```にChromeとかでアクセスすれば```HELLO WORLD!```
+
+今回は8080で```http://localhost:8080/```にChromeとかでアクセスすれば```HELLO WORLD!```
