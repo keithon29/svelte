@@ -25,7 +25,7 @@ webのところは、```docker-compose.yml```で指定した、service名。
 docker-compose exec web sh
 ```
 
-## コンテナを立ち上げた後実行するコマンドたち
+## コンテナを立ち上げた後に実行するコマンドたち
 
 ```sh
 npx degit sveltejs/template project-name && cd project-name
